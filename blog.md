@@ -97,7 +97,7 @@ Awekward moment for future mappers -- some building had numbers as if if it's a 
 
 Tiles processed: 760/1297 → 900/1297.
 
-*BIG NEWS*: Made a [addresses layer](https://skfd.github.io/toronto-addresses-layer/) you can use in JOSM or iD to reference City Data.
+*BIG NEWS*: Made a [addresses layer](https://toronto-maps.github.io/toronto-addresses-layer/) you can use in JOSM or iD to reference City Data.
 
 Many main street sections had [12 year old address errors](https://www.openstreetmap.org/changeset/183133996#map=19/43.665807/-79.469904&layers=N), which I fix manually. I feel like this area would need much more manual work and mapper attention, I am trying my best but it feels like an out of scope terrirotry for semi-automated import. Please use new address layer to double check everything if you like. Cheers!
 
